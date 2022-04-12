@@ -1,0 +1,7 @@
+flask
+dynaconf
+flask-sqlalchemy
+flask-migrate
+flask-marshmallow
+marshmallow-sqlalchemy
+flask-pydantic-spec
