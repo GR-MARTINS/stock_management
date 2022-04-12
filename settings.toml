@@ -9,7 +9,7 @@ DEBUG = true
 SQLALCHEMY_DATABASE_URI = 'sqlite:///database.db'
 SQLALCHEMY_TRACK_MODIFICATIONS = false
 EXTENSIONS = [
-    "",
+    "stock_management.ext.db:init_app",
 ]
 
 [production]
